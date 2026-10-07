@@ -1,9 +1,9 @@
 {
   "version": "VSE_FUTURE_PHYSICS_GENERATOR_v39_JOINT_SATURATION_SPEC_2026-10-07",
   "F0": [
-    "Существование",
-    "Замкнутость",
-    "Простота"
+    "Existence",
+    "Closure",
+    "Simplicity"
   ],
   "canonical_runtime": [
     "FULL",
@@ -21,9 +21,9 @@
     "JOINT_RESPONSE_JET"
   ],
   "identity_layers": {
-    "structural_state_id": "форма modulo representation/internal relabeling",
+    "structural_state_id": "form modulo representation/internal relabeling",
     "event_id": "literal ACT + source/filling/orientation/recovery",
-    "lineage_id": "процессная история/граф ACT",
+    "lineage_id": "process history / ACT graph",
     "macro_id": "future-sufficient saturated joint passport",
     "world_id": "recurrent source-compatible positive world branch"
   },
