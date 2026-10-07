@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "('silent', 'same')": 8840,
+    "('scale', 'same')": 251
+  },
+  "parent_residual_classes": 51,
+  "unique_strict_children": 8649,
+  "mismatch_examples": [],
+  "scale_residual_classes": [
+    {"scale_total": 233, "scale_same": 233, "residual": [], "silent_total": 4533, "silent_same": 4533},
+    {"scale_total": 8, "scale_same": 8, "residual": [-0.8408964, 0.8408964], "silent_total": 307, "silent_same": 307},
+    {"scale_total": 5, "scale_same": 5, "residual": [-1.0810356, 1.0810356], "silent_total": 136, "silent_same": 136},
+    {"scale_total": 4, "scale_same": 4, "residual": [-0.7349704, 0.7349704], "silent_total": 163, "silent_same": 163},
+    {"scale_total": 1, "scale_same": 1, "residual": [-1.0, 1.0], "silent_total": 206, "silent_same": 206}
+  ]
+}
