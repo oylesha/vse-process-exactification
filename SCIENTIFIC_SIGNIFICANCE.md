@@ -10,24 +10,24 @@ This repository is not presented as a completed Theory of Everything. Its centra
 
 The core runtime is
 
-$
+$$
 FULL \to SATURATE \to JOINT \to TRANSFORM \to RECOVER\_TEST
 \to SAFE\_QUOTIENT \to FACTOR \to RESIDUAL \to REIFY/CLASSIFY.
-$
+$$
 
 The three operational rules are:
 
-$
+$$
 SATURATE\ before\ TRANSFORM,
-$
+$$
 
-$
+$$
 JOINT\ before\ MARGINAL,
-$
+$$
 
-$
+$$
 RECOVER\ before\ QUOTIENT.
-$
+$$
 
 ## Main project-specific findings in this priority release
 
@@ -42,9 +42,9 @@ In the source-preserving D2 dataset:
 
 This forces an explicit distinction between:
 
-$
+$$
 STATE \ne EVENT \ne LINEAGE \ne MACROOBJECT \ne WORLD.
-$
+$$
 
 ### 2. Finite future signatures are not automatically safe quotients
 
@@ -65,9 +65,9 @@ This motivates the use of a full labeled joint relation tensor before destructiv
 
 The project-specific finite generator produces complex sectors of dimensions 2 and 3 with a native nonzero cross-block. Together with the full diagonal matrix algebras, this closes to:
 
-$
+$$
 M_5(\mathbb C).
-$
+$$
 
 The matrix-algebra theorem itself is standard; the project-specific result is the generated native cross-block and its role in the process model.
 
