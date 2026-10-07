@@ -1,0 +1,50 @@
+{
+  "source_database": {
+    "filename": "VSE_SOURCE_PRESERVING_D2_v1_3_2026-10-06.sqlite",
+    "sha256": "89a3d33dc30949de26e58ae9ab082366b9005ddd8ddede14ac823a20a6f5c575"
+  },
+  "control_A": {
+    "child_passport": "01596309be1ed8f830372908baa0895f993636984884f2f01b4102eb23c66acf",
+    "child_state": [[0,0,0,1,1,1,1],[0,0,0,1,1,1,1],[0,0,0,1,1,1,1],[0,0,1,0,0,0,1],[0,0,1,0,0,0,1],[0,0,1,0,0,0,1],[0,1,1,2,0,1,2]],
+    "events": [
+      {
+        "arrow_id": "093fde57ac6ec61c5a63936be3f4955e21fc96c0e8eb5a68324f1c3fee6edb4c",
+        "parent": "c7101b03ca63ca743588cc6cae12f997ca278e719b70e2c8aaf0530ddfdc9cb3",
+        "q_to_parent": [0,1,2,3,4,4,5],
+        "filling": {"boundary_roles":[1,2,4,5],"duplicated":[4],"orientation_retained_precanonicalization":true,"perspective":5,"side_a":[5],"side_r":[1,2]},
+        "source_growth": 1
+      },
+      {
+        "arrow_id": "c3dc2bf75dbdbdab638aa75c61c6620074eb8f058f3940348ea4eb63426851f1",
+        "parent": "4389424ef688e61f54dfc9dc12fd580e38d80020e0dd3d3eb0a19e20cc02ccc7",
+        "q_to_parent": [0,0,1,2,3,3,4],
+        "filling": {"boundary_roles":[0,1,3],"duplicated":[0,3],"orientation_retained_precanonicalization":true,"perspective":4,"side_a":[],"side_r":[1]},
+        "source_growth": 2
+      },
+      {
+        "arrow_id": "d07f9813a2f01bd3bd9acd7c0d685a9c9c0d3504b854133d6b6eb48c3f126e82",
+        "parent": "b6826b0b2002e33833a0a22844e1f73e3bd17256cde4406600306903c762c4c2",
+        "q_to_parent": [0,1,2,3,3,4,5],
+        "filling": {"boundary_roles":[0,3,5],"duplicated":[3],"orientation_retained_precanonicalization":true,"perspective":5,"side_a":[5],"side_r":[0]},
+        "source_growth": 1
+      }
+    ]
+  },
+  "control_B": {
+    "profile_hash": "008223e386041e80df3bbd2a0f44fd1f439778782b9c13b82f21c2d173d2e6ad",
+    "states": [
+      {
+        "passport": "4ff3c4c1823c89957ce9adfc1b335729ed7d4673221245f8ec7081d351ee158b",
+        "parent": "1e1fd86130df4ebd77a1fb6ec29db8d5d1806855630ceb5ea389fa2812a10217",
+        "state": [[0,0,1,1,1,1,1,1,1],[0,0,1,1,2,1,1,2,2],[0,1,0,0,0,1,1,1,1],[0,1,0,0,0,1,1,1,1],[0,1,0,0,0,1,1,1,1],[0,1,0,1,1,0,1,0,1],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0]],
+        "qroot": [0,1,2,2,2,3,3,3,3]
+      },
+      {
+        "passport": "c76df8c5bcaecda40f3bb59b57c328d0a3432905c40ee592ee7f888e997787d8",
+        "parent": "96110b77af167fbc7ce06a2fe92109efb9e7bd7e4d0aa33bd502b36862351582",
+        "state": [[0,0,1,1,2,1,1,2,2],[0,0,1,1,1,1,1,1,1],[0,1,0,0,0,1,1,1,1],[0,1,0,0,0,1,1,1,1],[0,1,0,0,0,1,1,1,1],[0,1,0,1,1,0,1,0,1],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0]],
+        "qroot": [0,1,2,2,2,3,3,3,3]
+      }
+    ]
+  }
+}
