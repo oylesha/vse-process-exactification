@@ -60,10 +60,12 @@ $$
 ### Generator
 - [v39 architecture specification](generator/VSE_FUTURE_PHYSICS_GENERATOR_v39_SPEC.json)
 - [v39 migration auditor](generator/VSE_GENERATOR_v39_MIGRATION_AUDITOR.py)
+- [q5/q7 finite cross-block verifier](generator/VSE_Q5_Q7_NATIVE_BRIDGE_VERIFY.py)
 
 ### Certificates
 - [Joint cross-block certificate](certificates/VSE_JOINT_CROSSBLOCK_CERTIFICATE_031.json)
 - [Generator migration audit](certificates/VSE_GENERATOR_v39_MIGRATION_AUDIT.json)
+- [q5/q7 native cross-block certificate](certificates/VSE_Q5_Q7_NATIVE_CROSSBLOCK_CERTIFICATE_009.json)
 - [Internal pole-ray registry](certificates/VSE_INTERNAL_POLE_RAY_REGISTRY_018.json)
 - [Frame-stripped transport audit](certificates/VSE_FRAME_STRIPPED_TRANSPORT_AUDIT_018.json)
 
@@ -75,7 +77,7 @@ $$
 1. Target-faithful process exactification with saturation, joint relations, explicit recovery, and safe quotienting.
 2. Explicit separation of structural state identity from event/process identity in the source-preserving generator.
 3. A labeled joint-relation/cross-block passport retained before destructive quotient.
-4. Project-specific q5/q7 generated complex sectors with a native nonzero cross-block whose finite *-algebraic closure is $M_5(\mathbb C)$; direct public machine evidence for the native bridge is currently marked PARTIAL in the claims ledger.
+4. Project-specific q5/q7 generated complex sectors with a native nonzero cross-block whose finite *-algebraic closure is $M_5(\mathbb C)$, with a bounded public finite certificate and verifier.
 5. Source-preserving finite-generator audits and recurrent internal spectral/pole structures within their declared computational scope.
 
 ## Important non-claims
