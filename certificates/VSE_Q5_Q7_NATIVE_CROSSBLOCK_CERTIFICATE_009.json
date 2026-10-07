@@ -1,0 +1,67 @@
+{
+  "certificate": "VSE_Q5_Q7_NATIVE_CROSSBLOCK_009",
+  "date": "2026-10-05",
+  "public_promotion_date": "2026-10-07",
+  "scope": "finite R01 relation carrier of the declared literal v38 generator",
+  "provenance": {
+    "generator": "VSE_UNIVERSAL_GENERATOR_v38_0_2026-10-04.py",
+    "generator_sha256": "58589b323cbc3a863d716e865b62e754c9fe907064cb7674b7bcfa02f50bfb83",
+    "source_report": "ВСЕ_ЕДИНЫЙ_ПУТЬ_ЗАМЫКАНИЯ_ИЗ_ЗЕРНА_009_КРОССБЛОК_ЗАМЫКАНИЕ_И_ФИНАЛЬНАЯ_ЖЕСТКОСТЬ_2026-10-05.md",
+    "source_report_sha256": "3a836e137f8ec40909fdb703ef94f502f8f2e9b26f494fe4bf3898c2c8fb9eb0",
+    "root_front_results_sha256": "f64bff2a9fa2dd914ef3ebe5f41779e8d55ce8186da8afaab610cdf876e6f6ad"
+  },
+  "root_R01": {
+    "first_directions": 80,
+    "primitive_seams": 543,
+    "q3_triangles": 1642
+  },
+  "q5": {
+    "peripheral_ring": [1, 6, 42, 39, 7],
+    "internal_complex_dimension": 2
+  },
+  "q7": {
+    "peripheral_ring": [0, 8, 2, 36, 27, 61, 12],
+    "internal_complex_dimension": 3
+  },
+  "cross_seams": {
+    "full_support_count": 27,
+    "peripheral_count": 18,
+    "peripheral_incidence_matrix": [
+      [0,1,0,1,0,0,1],
+      [1,0,1,0,0,1,0],
+      [1,1,1,1,1,0,1],
+      [1,0,1,1,0,0,0],
+      [1,0,1,1,0,0,0]
+    ],
+    "real_rank": 4
+  },
+  "complex_linear_projection": {
+    "map": "B: C^3 -> C^2",
+    "matrix": [
+      [
+        {"re": -0.20210444999881944, "im": 0.3224901863935814},
+        {"re": 0.07711844126275172, "im": -0.25726541738417785},
+        {"re": -0.38587516140830874, "im": -0.32052265177433226}
+      ],
+      [
+        {"re": -0.06556418131505617, "im": 0.006585225321942461},
+        {"re": 0.12092415817015545, "im": -0.12807756172134618},
+        {"re": -0.6628957971101466, "im": 0.3018665783102631}
+      ]
+    ],
+    "rank": 2,
+    "singular_values": [0.9385525288416152, 0.391988837759743]
+  },
+  "standard_downstream_theorem": {
+    "statement": "Full diagonal algebras M2(C) and M3(C), together with any nonzero cross map and its adjoint, generate M5(C).",
+    "project_specific_input": "the finite native nonzero q5/q7 cross block above",
+    "finite_M5_closure": true
+  },
+  "independent_public_verifier": "generator/VSE_Q5_Q7_NATIVE_BRIDGE_VERIFY.py",
+  "guards": [
+    "This certificate is finite and model-scoped.",
+    "It does not identify the q5/q7 sectors with physical weak/color fibres on a cofinal particle lineage.",
+    "It does not establish an unbroken physical SU(5) gauge symmetry, X/Y bosons, proton decay, or a breaking scale.",
+    "The public verifier reproduces the Fourier/complex projection and rank from the published finite incidence matrix; provenance of that incidence matrix is tied to the archived literal-v38 report and hashes above."
+  ]
+}
