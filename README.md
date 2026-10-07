@@ -65,6 +65,7 @@ $$
 ### Certificates
 - [Joint cross-block certificate](certificates/VSE_JOINT_CROSSBLOCK_CERTIFICATE_031.json)
 - [Generator migration audit](certificates/VSE_GENERATOR_v39_MIGRATION_AUDIT.json)
+- [D2 negative-control reproducer](reproducibility/d2_negative_control/README.md)
 - [q5/q7 native cross-block certificate](certificates/VSE_Q5_Q7_NATIVE_CROSSBLOCK_CERTIFICATE_009.json)
 - [Internal pole-ray registry](certificates/VSE_INTERNAL_POLE_RAY_REGISTRY_018.json)
 - [Frame-stripped transport audit](certificates/VSE_FRAME_STRIPPED_TRANSPORT_AUDIT_018.json)
