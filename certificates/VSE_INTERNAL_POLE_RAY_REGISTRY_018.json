@@ -1,0 +1,119 @@
+{
+  "status": {
+    "frame_stripped_residual_transport": "MACHINE_PASS_ON_SCANNED_CORE",
+    "certified_physical_particles": 0,
+    "macro_invariant_internal_pole_ray_candidates": 4
+  },
+  "background_class": {
+    "normalized_residual": [],
+    "meaning": "No unmatched internal pole after root/frame recovery.",
+    "scale_events_in_canonical_D3_scan": 233,
+    "silent_events_in_canonical_D3_scan": 4533
+  },
+  "pole_rays": [
+    {
+      "id": "INTERNAL_POLE_RAY_A",
+      "normalized_residual_pair": [-0.840896415, 0.840896415],
+      "algebraic_passport": "2*x^4 - 1",
+      "continuation_levels": [
+        {"n": 11, "scale": 1.6817928305074288},
+        {"n": 17, "scale": 2.378414230005442},
+        {"n": 29, "scale": 3.363585661014858},
+        {"n": 53, "scale": 4.756828460010884},
+        {"n": 101, "scale": 6.727171322029716}
+      ],
+      "strict_scale_steps": 4,
+      "stop": {"level": 5, "n": 101, "tested_full_dup_boundaries": 207, "reason": "NO_IMMEDIATE_STRICT_FULL_DUP_SCALE"},
+      "status": "MACRO_INVARIANT_POLE_RAY_CANDIDATE",
+      "physical_particle_status": "NOT_YET_CERTIFIED",
+      "missing_for_particle": [
+        "cofinal recurrence through silent-closure interruptions",
+        "locality/support certificate",
+        "continuum threshold/resonance or stable-width classification",
+        "physical U1/spin/internal-fibre source attachment",
+        "same-world interaction passport"
+      ]
+    },
+    {
+      "id": "INTERNAL_POLE_RAY_B",
+      "normalized_residual_pair": [-1.081035594, 1.081035594],
+      "algebraic_passport": "8*x^12 - 72*x^8 + 90*x^4 - 9",
+      "continuation_levels": [
+        {"n": 11, "scale": 1.6817928305074288},
+        {"n": 17, "scale": 2.378414230005442},
+        {"n": 29, "scale": 3.363585661014858},
+        {"n": 53, "scale": 4.756828460010884},
+        {"n": 101, "scale": 6.727171322029716}
+      ],
+      "strict_scale_steps": 4,
+      "stop": {"level": 5, "n": 101, "tested_full_dup_boundaries": 207, "reason": "NO_IMMEDIATE_STRICT_FULL_DUP_SCALE"},
+      "status": "MACRO_INVARIANT_POLE_RAY_CANDIDATE",
+      "physical_particle_status": "NOT_YET_CERTIFIED",
+      "missing_for_particle": [
+        "cofinal recurrence through silent-closure interruptions",
+        "locality/support certificate",
+        "continuum threshold/resonance or stable-width classification",
+        "physical U1/spin/internal-fibre source attachment",
+        "same-world interaction passport"
+      ]
+    },
+    {
+      "id": "INTERNAL_POLE_RAY_C",
+      "normalized_residual_pair": [-0.734970417, 0.734970417],
+      "algebraic_passport": "x^8 - 14*x^4 + 4",
+      "continuation_levels": [
+        {"n": 10, "scale": 1.189207115002721},
+        {"n": 16, "scale": 1.6817928305074288},
+        {"n": 28, "scale": 2.378414230005442},
+        {"n": 52, "scale": 3.3635856610148576}
+      ],
+      "strict_scale_steps": 3,
+      "stop": {"level": 4, "n": 52, "tested_full_dup_boundaries": 108, "reason": "NO_IMMEDIATE_STRICT_FULL_DUP_SCALE"},
+      "status": "MACRO_INVARIANT_POLE_RAY_CANDIDATE",
+      "physical_particle_status": "NOT_YET_CERTIFIED",
+      "missing_for_particle": [
+        "cofinal recurrence through silent-closure interruptions",
+        "locality/support certificate",
+        "continuum threshold/resonance or stable-width classification",
+        "physical U1/spin/internal-fibre source attachment",
+        "same-world interaction passport"
+      ]
+    },
+    {
+      "id": "INTERNAL_POLE_RAY_D",
+      "normalized_residual_pair": [-1.0, 1.0],
+      "algebraic_passport": "x - 1",
+      "continuation_levels": [
+        {"n": 9, "scale": 1.414213562373095},
+        {"n": 15, "scale": 1.9999999999999998},
+        {"n": 27, "scale": 2.82842712474619}
+      ],
+      "strict_scale_steps": 2,
+      "stop": {"level": 3, "n": 27, "tested_full_dup_boundaries": 57, "reason": "NO_IMMEDIATE_STRICT_FULL_DUP_SCALE"},
+      "status": "MACRO_INVARIANT_POLE_RAY_CANDIDATE",
+      "physical_particle_status": "NOT_YET_CERTIFIED",
+      "missing_for_particle": [
+        "cofinal recurrence through silent-closure interruptions",
+        "locality/support certificate",
+        "continuum threshold/resonance or stable-width classification",
+        "physical U1/spin/internal-fibre source attachment",
+        "same-world interaction passport"
+      ]
+    }
+  ],
+  "coverage": {
+    "D2_core_states_in_five_original_cells": 479,
+    "canonical_D3_parents_exhaustive_up_to_raw_10000": 423,
+    "heavy_literal_parents_exhaustive_raw_10000_to_25000": 41,
+    "combined_exhaustive_parent_coverage": 464,
+    "combined_exhaustive_fraction": 0.9686847599164927,
+    "remaining_heavy_parents": 15,
+    "remaining_pattern_scale_tests": 17511,
+    "remaining_pattern_scale_hits": 0
+  },
+  "guards": [
+    "Heavy-parent strict counts are literal-filling counts and must not be added directly to canonical quotient-edge counts.",
+    "The final 15 parents were not brute-force exhaustive; only the scale grammar covering all previously observed scale events was tested.",
+    "A stable finite Hermitian pole pair is not yet a physical particle or measured mass."
+  ]
+}
