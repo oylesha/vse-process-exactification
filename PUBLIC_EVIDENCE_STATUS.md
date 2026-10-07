@@ -7,8 +7,8 @@ This file distinguishes a public priority claim from the amount of reproducibili
 
 | Area | Public claim status | Public evidence status | Note |
 |---|---|---|---|
-| State / event / lineage separation | COMPUTATIONAL | INCLUDED | Migration audit is public. |
-| Finite future-profile collision audit | COMPUTATIONAL | INCLUDED | Migration audit is public. |
+| State / event / lineage separation | COMPUTATIONAL | INCLUDED | Migration audit plus a concrete three-history negative-control fixture and verifier are public. |
+| Finite future-profile collision audit | COMPUTATIONAL | INCLUDED | Migration audit plus a concrete pair of distinct exact states with one complete depth-0 profile hash are public. |
 | Labeled cyclic cross-Gram recovery | EXACT | INCLUDED | The theorem and computational cross-check are public. |
 | q5/q7 native cross-block → M5 | COMPUTATIONAL + STANDARD EXACT THEOREM | INCLUDED, SCOPED | The finite incidence matrix, complex projection, rank-2 bridge and verifier are public. Full regeneration of the original v38 R01 graph remains a heavier provenance-level audit. |
 | Internal pole-ray candidates | COMPUTATIONAL | INCLUDED, SCOPED | Public registry and frame-stripped transport audit include explicit non-particle guards. |
