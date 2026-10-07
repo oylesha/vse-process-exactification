@@ -1,0 +1,65 @@
+{
+  "certificate": "VSE_D2_LATE_SEPARATOR_007",
+  "date": "2026-10-07",
+  "source_database": "VSE_SOURCE_PRESERVING_D2_v1_3_2026-10-06.sqlite",
+  "source_database_sha256": "89a3d33dc30949de26e58ae9ab082366b9005ddd8ddede14ac823a20a6f5c575",
+  "target_version": "PHYS_ROOT_FESHBACH_RIESZ_HODGE_v1",
+  "passports": {
+    "079d7bd2c7624b49fcd96e7861971acdd102dfd0cd40a08650088fb7336ab903": {
+      "step": 1,
+      "parent": "29500bcabdf9452d307780693452e227551b1a5d6d62f38191a825f3346cb220",
+      "state": [[0,0,1,1,1],[0,0,1,2,2],[0,1,0,0,1],[0,1,0,0,1],[0,0,0,0,0]],
+      "qroot": [0,1,2,2,3],
+      "depth0": {
+        "profile_hash": "42525254b4e49ceab1f1f31b3a83c03aaa0454b81220427b978151cdbca4e02f",
+        "current_signature": "42525254b4e49ceab1f1f31b3a83c03aaa0454b81220427b978151cdbca4e02f",
+        "child_classes": 0,
+        "arrow_count": 0,
+        "complete": true
+      },
+      "depth1": {
+        "profile_hash": "b558cecd5fe79b2a59e514f4cb6827e9c3366e658b62d678322add936c8e00c9",
+        "current_signature": "42525254b4e49ceab1f1f31b3a83c03aaa0454b81220427b978151cdbca4e02f",
+        "child_classes": 182,
+        "arrow_count": 231,
+        "complete": true
+      }
+    },
+    "d20916851163ea3e3da0d34e522a44442323b819e5fc4e0c9a6c47c270aa1488": {
+      "step": 1,
+      "parent": "29500bcabdf9452d307780693452e227551b1a5d6d62f38191a825f3346cb220",
+      "state": [[0,0,1,2,2],[0,0,1,1,1],[0,1,0,0,1],[0,1,0,0,1],[0,0,0,0,0]],
+      "qroot": [0,1,2,2,3],
+      "depth0": {
+        "profile_hash": "42525254b4e49ceab1f1f31b3a83c03aaa0454b81220427b978151cdbca4e02f",
+        "current_signature": "42525254b4e49ceab1f1f31b3a83c03aaa0454b81220427b978151cdbca4e02f",
+        "child_classes": 0,
+        "arrow_count": 0,
+        "complete": true
+      },
+      "depth1": {
+        "profile_hash": "714c17750a5c1990d6641a216ddea600c8978ba6009863167fd580b1bcad7458",
+        "current_signature": "42525254b4e49ceab1f1f31b3a83c03aaa0454b81220427b978151cdbca4e02f",
+        "child_classes": 158,
+        "arrow_count": 231,
+        "complete": true
+      }
+    }
+  },
+  "witness": {
+    "same_generator_step": true,
+    "same_parent": true,
+    "same_depth0_profile_hash": true,
+    "depth0_complete_both": true,
+    "depth1_complete_both": true,
+    "different_depth1_profile_hash": true,
+    "same_depth1_arrow_count": true,
+    "different_depth1_child_classes": true
+  },
+  "interpretation": "The two same-step records are indistinguishable by the complete depth-0 target signature but are separated by the complete depth-1 target signature. This is an explicit finite late-separator witness: equality at the shallower target level is not a complete identity certificate.",
+  "guards": [
+    "This is a finite certificate for the declared target version, not a theorem that every finite collision separates later.",
+    "The witness supports the target-refinement/no-late-separator logic; it does not by itself establish a physical continuum identity criterion.",
+    "The public JSON is an extracted bounded witness tied by SHA-256 to the full private D2 database."
+  ]
+}
