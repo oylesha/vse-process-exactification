@@ -2,7 +2,8 @@
 
 **Primary human author / research program originator:** **Antyshev**  
 **ORCID:** https://orcid.org/0009-0002-2082-5563  
-**Priority release:** v0.1-priority — 2026-10-07  
+**Priority snapshot version:** v0.1-priority — 2026-10-07  
+**Immutable GitHub Release:** pending final public audit  
 **Publication language:** English (original research history is preserved separately in Russian)
 
 This repository is the **public, curated priority record** for the VSE research program and its project-specific results.
@@ -25,30 +26,30 @@ This repository is the **public, curated priority record** for the VSE research 
 
 The current exactification pipeline is
 
-[
+$
 FULL \to SATURATE \to JOINT \to TRANSFORM \to RECOVER\_TEST
 \to SAFE\_QUOTIENT \to FACTOR \to RESIDUAL \to REIFY/CLASSIFY.
-]
+$
 
 The central identity distinction is
 
-[
+$
 STATE \ne EVENT \ne LINEAGE \ne MACROOBJECT \ne WORLD.
-]
+$
 
 Operational rules:
 
-[
+$
 SATURATE\ before\ TRANSFORM,
-]
+$
 
-[
+$
 JOINT\ before\ MARGINAL,
-]
+$
 
-[
+$
 RECOVER\ before\ QUOTIENT.
-]
+$
 
 ## Public evidence currently included
 
