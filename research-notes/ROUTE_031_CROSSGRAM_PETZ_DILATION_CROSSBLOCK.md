@@ -28,9 +28,9 @@ Across the sextic phase carrier, the q5/q7 finite (M_5) route, binding via a Sch
 
 A recurring finite realization of the VSE triad is therefore
 
-[
+$$
 \boxed{A,\quad B,\quad C_{AB}.}
-]
+$$
 
 Here (A) and (B) are internally closed sectors and (C_{AB}) is the relation that can create a higher whole.
 
@@ -96,14 +96,14 @@ No complexity separation is claimed.
 
 The strongest new object is not another constant or particle candidate. It is
 
-[
+$$
 \boxed{\textbf{FULL LABELED JOINT RELATION TENSOR}}
-]
+$$
 
 together with
 
-[
+$$
 \boxed{\textbf{minimal saturation + explicit recovery before quotient}.}
-]
+$$
 
 This is the preferred carrier for future VSE exactifiers.
