@@ -16,5 +16,5 @@
 - Added a public evidence-status ledger.
 - Added scoped internal pole-ray and frame-stripped transport certificates with explicit non-particle guards.
 - Added VSE-C006 for the finite future-profile collision / unsafe-quotient result already present in the public scientific summary.
-- Marked the direct public evidence for VSE-C004 (the generator-native q5/q7 bridge) as PARTIAL until its raw bridge artifact is promoted.
+- Initially marked VSE-C004 as PARTIAL during audit; subsequently promoted a bounded q5/q7 incidence/cross-block certificate and independent public verifier, so the public evidence status is now INCLUDED, SCOPED.
 - No RH, P vs NP, completed-ToE, physical-particle, or forced-Monster claim was added.
