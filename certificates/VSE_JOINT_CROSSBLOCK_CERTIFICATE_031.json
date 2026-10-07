@@ -1,0 +1,1000 @@
+{
+  "date": "2026-10-07",
+  "title": "JOINT/CROSS-BLOCK CERTIFICATE 031",
+  "cyclic_cross_gram_theorem": {
+    "statement": "For z in mu_m, G_ab=z^a*conj(z^b)=z^(a-b). If gcd(a-b,m)=1, z is recovered as G_ab^r with r(a-b)=1 mod m.",
+    "audit_m_2_to_64_all_pass": true,
+    "summary": [
+      {
+        "m": 2,
+        "recovering_pair_count": 2,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.4492935982947064e-16
+          },
+          {
+            "a": 1,
+            "b": 0,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 0.0
+          }
+        ]
+      },
+      {
+        "m": 3,
+        "recovering_pair_count": 6,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 2,
+            "inverse": 2,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.5423711185402538e-15
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.5423711185402538e-15
+          },
+          {
+            "a": 1,
+            "b": 0,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 0.0
+          },
+          {
+            "a": 1,
+            "b": 2,
+            "difference": 2,
+            "inverse": 2,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.5423711185402538e-15
+          }
+        ]
+      },
+      {
+        "m": 4,
+        "recovering_pair_count": 8,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 3,
+            "inverse": 3,
+            "exact_exponent_recovery": true,
+            "float_worst": 7.347880794884119e-16
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 7.347880794884119e-16
+          },
+          {
+            "a": 1,
+            "b": 0,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 0.0
+          },
+          {
+            "a": 1,
+            "b": 2,
+            "difference": 3,
+            "inverse": 3,
+            "exact_exponent_recovery": true,
+            "float_worst": 7.347880794884119e-16
+          }
+        ]
+      },
+      {
+        "m": 5,
+        "recovering_pair_count": 20,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 4,
+            "inverse": 4,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.1060518526157679e-15
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 3,
+            "inverse": 2,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.1060518526157679e-15
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 2,
+            "inverse": 3,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.0411201962889075e-15
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.1060518526157679e-15
+          }
+        ]
+      },
+      {
+        "m": 6,
+        "recovering_pair_count": 12,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 5,
+            "inverse": 5,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.0847422370805075e-15
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.0847422370805075e-15
+          },
+          {
+            "a": 1,
+            "b": 0,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 0.0
+          },
+          {
+            "a": 1,
+            "b": 2,
+            "difference": 5,
+            "inverse": 5,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.0847422370805075e-15
+          }
+        ]
+      },
+      {
+        "m": 7,
+        "recovering_pair_count": 42,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 6,
+            "inverse": 6,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.336885555457667e-15
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 5,
+            "inverse": 3,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.336885555457667e-15
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 4,
+            "inverse": 2,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.2560739669470201e-15
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 3,
+            "inverse": 5,
+            "exact_exponent_recovery": true,
+            "float_worst": 4.105667941426199e-15
+          }
+        ]
+      },
+      {
+        "m": 8,
+        "recovering_pair_count": 32,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 7,
+            "inverse": 7,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.88411095042053e-15
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 5,
+            "inverse": 5,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.76822190084106e-15
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 3,
+            "inverse": 3,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.76822190084106e-15
+          },
+          {
+            "a": 0,
+            "b": 7,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.88411095042053e-15
+          }
+        ]
+      },
+      {
+        "m": 9,
+        "recovering_pair_count": 54,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 8,
+            "inverse": 8,
+            "exact_exponent_recovery": true,
+            "float_worst": 4.6271133556207615e-15
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 7,
+            "inverse": 4,
+            "exact_exponent_recovery": true,
+            "float_worst": 4.6271133556207615e-15
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 5,
+            "inverse": 2,
+            "exact_exponent_recovery": true,
+            "float_worst": 4.6271133556207615e-15
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 4,
+            "inverse": 7,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.854903270234871e-14
+          }
+        ]
+      },
+      {
+        "m": 10,
+        "recovering_pair_count": 40,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 9,
+            "inverse": 9,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.445012586343469e-15
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 7,
+            "inverse": 3,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.248030287623391e-15
+          },
+          {
+            "a": 0,
+            "b": 7,
+            "difference": 3,
+            "inverse": 7,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.2409194731708836e-14
+          },
+          {
+            "a": 0,
+            "b": 9,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.445012586343469e-15
+          }
+        ]
+      },
+      {
+        "m": 11,
+        "recovering_pair_count": 110,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 10,
+            "inverse": 10,
+            "exact_exponent_recovery": true,
+            "float_worst": 4.470285125465932e-15
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 9,
+            "inverse": 5,
+            "exact_exponent_recovery": true,
+            "float_worst": 4.470285125465932e-15
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 8,
+            "inverse": 7,
+            "exact_exponent_recovery": true,
+            "float_worst": 8.692415290251613e-15
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 7,
+            "inverse": 8,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.3207921623731733e-14
+          }
+        ]
+      },
+      {
+        "m": 12,
+        "recovering_pair_count": 48,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 11,
+            "inverse": 11,
+            "exact_exponent_recovery": true,
+            "float_worst": 6.169484474161015e-15
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 7,
+            "inverse": 7,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.854903270234871e-14
+          },
+          {
+            "a": 0,
+            "b": 7,
+            "difference": 5,
+            "inverse": 5,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.8445830170286417e-14
+          },
+          {
+            "a": 0,
+            "b": 11,
+            "difference": 1,
+            "inverse": 1,
+            "exact_exponent_recovery": true,
+            "float_worst": 6.169484474161015e-15
+          }
+        ]
+      },
+      {
+        "m": 13,
+        "recovering_pair_count": 156,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 12,
+            "inverse": 12,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.5526063129565058e-14
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 11,
+            "inverse": 6,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.5526063129565058e-14
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 10,
+            "inverse": 4,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.5345595659996914e-14
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 9,
+            "inverse": 3,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.5526063129565058e-14
+          }
+        ]
+      },
+      {
+        "m": 14,
+        "recovering_pair_count": 84,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 13,
+            "inverse": 13,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.53341705647954e-14
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 11,
+            "inverse": 9,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.124331121998833e-14
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 9,
+            "inverse": 11,
+            "exact_exponent_recovery": true,
+            "float_worst": 6.154082118830946e-14
+          },
+          {
+            "a": 0,
+            "b": 9,
+            "difference": 5,
+            "inverse": 3,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.0722701688630587e-14
+          }
+        ]
+      },
+      {
+        "m": 15,
+        "recovering_pair_count": 120,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 14,
+            "inverse": 14,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.151225026474127e-14
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 13,
+            "inverse": 7,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.151225026474127e-14
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 11,
+            "inverse": 11,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.436008262757515e-14
+          },
+          {
+            "a": 0,
+            "b": 7,
+            "difference": 8,
+            "inverse": 2,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.1196760547806448e-14
+          }
+        ]
+      },
+      {
+        "m": 16,
+        "recovering_pair_count": 128,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 15,
+            "inverse": 15,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.0658719261875218e-14
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 13,
+            "inverse": 5,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.070084532985537e-14
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 11,
+            "inverse": 3,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.0598414849989862e-14
+          },
+          {
+            "a": 0,
+            "b": 7,
+            "difference": 9,
+            "inverse": 9,
+            "exact_exponent_recovery": true,
+            "float_worst": 4.2658288116400747e-14
+          }
+        ]
+      },
+      {
+        "m": 17,
+        "recovering_pair_count": 272,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 16,
+            "inverse": 16,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.6618151118147125e-14
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 15,
+            "inverse": 8,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.6618151118147125e-14
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 14,
+            "inverse": 11,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.4059065770033945e-14
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 13,
+            "inverse": 4,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.6618151118147125e-14
+          }
+        ]
+      },
+      {
+        "m": 18,
+        "recovering_pair_count": 108,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 17,
+            "inverse": 17,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.3610084544454853e-14
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 13,
+            "inverse": 7,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.7220169088909705e-14
+          },
+          {
+            "a": 0,
+            "b": 7,
+            "difference": 11,
+            "inverse": 5,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.7433069525316436e-14
+          },
+          {
+            "a": 0,
+            "b": 11,
+            "difference": 7,
+            "inverse": 13,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.086325289285486e-13
+          }
+        ]
+      },
+      {
+        "m": 19,
+        "recovering_pair_count": 342,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 18,
+            "inverse": 18,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.0049818295450802e-14
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 17,
+            "inverse": 9,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.0049818295450802e-14
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 16,
+            "inverse": 6,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.0134700540721692e-14
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 15,
+            "inverse": 14,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.0146184082200085e-14
+          }
+        ]
+      },
+      {
+        "m": 20,
+        "recovering_pair_count": 160,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 19,
+            "inverse": 19,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.0858071996243579e-14
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 17,
+            "inverse": 13,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.199621925179227e-14
+          },
+          {
+            "a": 0,
+            "b": 7,
+            "difference": 13,
+            "inverse": 17,
+            "exact_exponent_recovery": true,
+            "float_worst": 6.60919412586613e-14
+          },
+          {
+            "a": 0,
+            "b": 9,
+            "difference": 11,
+            "inverse": 11,
+            "exact_exponent_recovery": true,
+            "float_worst": 5.5151970032405335e-14
+          }
+        ]
+      },
+      {
+        "m": 21,
+        "recovering_pair_count": 252,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 20,
+            "inverse": 20,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.6342543260578777e-14
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 19,
+            "inverse": 10,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.6342543260578777e-14
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 17,
+            "inverse": 5,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.6342543260578777e-14
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 16,
+            "inverse": 4,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.6610732300313943e-14
+          }
+        ]
+      },
+      {
+        "m": 22,
+        "recovering_pair_count": 220,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 21,
+            "inverse": 21,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.808846003373584e-14
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 19,
+            "inverse": 7,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.780316269834494e-14
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 17,
+            "inverse": 13,
+            "exact_exponent_recovery": true,
+            "float_worst": 5.516180274610335e-14
+          },
+          {
+            "a": 0,
+            "b": 7,
+            "difference": 15,
+            "inverse": 3,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.7919013374855212e-14
+          }
+        ]
+      },
+      {
+        "m": 23,
+        "recovering_pair_count": 506,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 22,
+            "inverse": 22,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.2699445765597816e-14
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 21,
+            "inverse": 11,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.2699445765597816e-14
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 20,
+            "inverse": 15,
+            "exact_exponent_recovery": true,
+            "float_worst": 4.546498842185978e-14
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 19,
+            "inverse": 17,
+            "exact_exponent_recovery": true,
+            "float_worst": 6.799579019203205e-14
+          }
+        ]
+      },
+      {
+        "m": 24,
+        "recovering_pair_count": 192,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 23,
+            "inverse": 23,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.946985871417395e-14
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 19,
+            "inverse": 19,
+            "exact_exponent_recovery": true,
+            "float_worst": 7.67663025970708e-14
+          },
+          {
+            "a": 0,
+            "b": 7,
+            "difference": 17,
+            "inverse": 17,
+            "exact_exponent_recovery": true,
+            "float_worst": 9.65648506937582e-14
+          },
+          {
+            "a": 0,
+            "b": 11,
+            "difference": 13,
+            "inverse": 13,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.175566426961448e-13
+          }
+        ]
+      },
+      {
+        "m": 25,
+        "recovering_pair_count": 500,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 24,
+            "inverse": 24,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.368759107089053e-14
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 23,
+            "inverse": 12,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.368759107089053e-14
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 22,
+            "inverse": 8,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.3823275246103038e-14
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 21,
+            "inverse": 6,
+            "exact_exponent_recovery": true,
+            "float_worst": 2.368759107089053e-14
+          }
+        ]
+      },
+      {
+        "m": 26,
+        "recovering_pair_count": 312,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 25,
+            "inverse": 25,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.120694537116101e-14
+          },
+          {
+            "a": 0,
+            "b": 3,
+            "difference": 23,
+            "inverse": 17,
+            "exact_exponent_recovery": true,
+            "float_worst": 6.1398946901255e-14
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 21,
+            "inverse": 5,
+            "exact_exponent_recovery": true,
+            "float_worst": 3.114269585495613e-14
+          },
+          {
+            "a": 0,
+            "b": 7,
+            "difference": 19,
+            "inverse": 11,
+            "exact_exponent_recovery": true,
+            "float_worst": 9.291107527081257e-14
+          }
+        ]
+      },
+      {
+        "m": 27,
+        "recovering_pair_count": 486,
+        "all_exact": true,
+        "sample_pairs": [
+          {
+            "a": 0,
+            "b": 1,
+            "difference": 26,
+            "inverse": 26,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.641199648653993e-14
+          },
+          {
+            "a": 0,
+            "b": 2,
+            "difference": 25,
+            "inverse": 13,
+            "exact_exponent_recovery": true,
+            "float_worst": 1.641199648653993e-14
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "difference": 23,
+            "inverse": 20,
+            "exact_exponent_recovery": true,
+            "float_worst": 4.8973806724445176e-14
+          },
+          {
+            "a": 0,
+            "b": 5,
+            "difference": 22,
+            "inverse": 16,
