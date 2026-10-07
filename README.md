@@ -1,16 +1,25 @@
-# VSE / Теория «ВСЕ» — Recoverable Process Exactification
+# VSE / Theory “ВСЕ” — Recoverable Process Exactification
 
 **Primary human author / research program originator:** **Antyshev**  
 **ORCID:** https://orcid.org/0009-0002-2082-5563  
-**Priority release:** v0.1-priority — 2026-10-07
+**Priority release:** v0.1-priority — 2026-10-07  
+**Publication language:** English (original research history is preserved separately in Russian)
 
-This repository is the public priority record for the VSE research program and its project-specific results.
+This repository is the **public, curated priority record** for the VSE research program and its project-specific results.
 
-## Authorship
+> The complete research archive is intentionally kept private. This public repository contains only reviewed material that is safe and useful to disclose.
 
-The research program, its conceptual direction, problem selection, project-specific hypotheses, generator architecture, computational experiments, and interpretation of the included VSE results are attributed in this release to **Antyshev**.
+## Start here
 
-AI systems were used as research assistants for literature search, symbolic/numerical checking, code generation, adversarial audit, and drafting. AI tools are **not authors** of this release. See `AI_DISCLOSURE.md`.
+- [Scientific significance](SCIENTIFIC_SIGNIFICANCE.md)
+- [Publication scope and non-claims](PUBLICATION_SCOPE.md)
+- [Authorship and priority statement](AUTHORSHIP_AND_PRIORITY.md)
+- [Claims ledger](CLAIMS_LEDGER.md)
+- [Publication roadmap](PUBLICATION_ROADMAP.md)
+- [Paper 1 outline](PAPER1_OUTLINE.md)
+- [Disclosure matrix](DISCLOSURE_MATRIX.md)
+- [Citation metadata](CITATION.cff)
+- [AI assistance disclosure](AI_DISCLOSURE.md)
 
 ## Core technical contribution
 
@@ -21,13 +30,41 @@ FULL \to SATURATE \to JOINT \to TRANSFORM \to RECOVER\_TEST
 \to SAFE\_QUOTIENT \to FACTOR \to RESIDUAL \to REIFY/CLASSIFY.
 ]
 
-A central distinction is
+The central identity distinction is
 
 [
 STATE \ne EVENT \ne LINEAGE \ne MACROOBJECT \ne WORLD.
 ]
 
-The public release separates `EXACT`, `COMPUTATIONAL`, `CONDITIONAL`, `OPEN`, `FAIL`, and `EXTERNAL` claims.
+Operational rules:
+
+[
+SATURATE\ before\ TRANSFORM,
+]
+
+[
+JOINT\ before\ MARGINAL,
+]
+
+[
+RECOVER\ before\ QUOTIENT.
+]
+
+## Public evidence currently included
+
+### Theory
+- [Canonical act v4.1](theory/CANONICAL_ACT_v4_1_JOINT_SATURATION_CROSSBLOCK.md)
+
+### Generator
+- [v39 architecture specification](generator/VSE_FUTURE_PHYSICS_GENERATOR_v39_SPEC.json)
+- [v39 migration auditor](generator/VSE_GENERATOR_v39_MIGRATION_AUDITOR.py)
+
+### Certificates
+- [Joint cross-block certificate](certificates/VSE_JOINT_CROSSBLOCK_CERTIFICATE_031.json)
+- [Generator migration audit](certificates/VSE_GENERATOR_v39_MIGRATION_AUDIT.json)
+
+### Research note
+- [Route 031 — Cross-Gram / recovery / cross-block](research-notes/ROUTE_031_CROSSGRAM_PETZ_DILATION_CROSSBLOCK.md)
 
 ## Priority claims in this release
 
@@ -46,10 +83,17 @@ This repository does **not** currently claim:
 - experimentally established particle identifications;
 - Monster symmetry as a forced symmetry of our universe.
 
+## Authorship
+
+The research program, its conceptual direction, problem selection, project-specific hypotheses, generator architecture, computational experiments, and interpretation of the included VSE results are attributed in this release to **Antyshev**.
+
+AI systems were used as research assistants for literature search, symbolic/numerical checking, code generation, adversarial audit, and drafting. AI tools are **not authors** of this release.
+
 ## Citation
 
-Please cite this repository/release using `CITATION.cff`.  
-Author: **Antyshev** — ORCID **0009-0002-2082-5563**.
+Please cite this repository/release using [CITATION.cff](CITATION.cff).
+
+**Antyshev** — ORCID **0009-0002-2082-5563**.
 
 ## Version integrity
 
@@ -59,4 +103,4 @@ Historical releases must not be silently overwritten. Each release will be tied 
 - SHA-256 manifest;
 - DOI / archival identifiers when assigned.
 
-See `AUTHORSHIP_AND_PRIORITY.md`, `CLAIMS_LEDGER.md`, and `CHANGELOG.md`.
+See [AUTHORSHIP_AND_PRIORITY.md](AUTHORSHIP_AND_PRIORITY.md), [CLAIMS_LEDGER.md](CLAIMS_LEDGER.md), and [CHANGELOG.md](CHANGELOG.md).
