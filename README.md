@@ -16,6 +16,7 @@ This repository is the **public, curated priority record** for the VSE research 
 - [Publication scope and non-claims](PUBLICATION_SCOPE.md)
 - [Authorship and priority statement](AUTHORSHIP_AND_PRIORITY.md)
 - [Claims ledger](CLAIMS_LEDGER.md)
+- [Public evidence status](PUBLIC_EVIDENCE_STATUS.md)
 - [Publication roadmap](PUBLICATION_ROADMAP.md)
 - [Paper 1 outline](PAPER1_OUTLINE.md)
 - [Disclosure matrix](DISCLOSURE_MATRIX.md)
@@ -26,30 +27,30 @@ This repository is the **public, curated priority record** for the VSE research 
 
 The current exactification pipeline is
 
-$
+$$
 FULL \to SATURATE \to JOINT \to TRANSFORM \to RECOVER\_TEST
 \to SAFE\_QUOTIENT \to FACTOR \to RESIDUAL \to REIFY/CLASSIFY.
-$
+$$
 
 The central identity distinction is
 
-$
+$$
 STATE \ne EVENT \ne LINEAGE \ne MACROOBJECT \ne WORLD.
-$
+$$
 
 Operational rules:
 
-$
+$$
 SATURATE\ before\ TRANSFORM,
-$
+$$
 
-$
+$$
 JOINT\ before\ MARGINAL,
-$
+$$
 
-$
+$$
 RECOVER\ before\ QUOTIENT.
-$
+$$
 
 ## Public evidence currently included
 
@@ -63,6 +64,8 @@ $
 ### Certificates
 - [Joint cross-block certificate](certificates/VSE_JOINT_CROSSBLOCK_CERTIFICATE_031.json)
 - [Generator migration audit](certificates/VSE_GENERATOR_v39_MIGRATION_AUDIT.json)
+- [Internal pole-ray registry](certificates/VSE_INTERNAL_POLE_RAY_REGISTRY_018.json)
+- [Frame-stripped transport audit](certificates/VSE_FRAME_STRIPPED_TRANSPORT_AUDIT_018.json)
 
 ### Research note
 - [Route 031 — Cross-Gram / recovery / cross-block](research-notes/ROUTE_031_CROSSGRAM_PETZ_DILATION_CROSSBLOCK.md)
@@ -72,7 +75,7 @@ $
 1. Target-faithful process exactification with saturation, joint relations, explicit recovery, and safe quotienting.
 2. Explicit separation of structural state identity from event/process identity in the source-preserving generator.
 3. A labeled joint-relation/cross-block passport retained before destructive quotient.
-4. Project-specific q5/q7 generated complex sectors with a native nonzero cross-block whose finite *-algebraic closure is (M_5(\mathbb C)).
+4. Project-specific q5/q7 generated complex sectors with a native nonzero cross-block whose finite *-algebraic closure is $M_5(\mathbb C)$; direct public machine evidence for the native bridge is currently marked PARTIAL in the claims ledger.
 5. Source-preserving finite-generator audits and recurrent internal spectral/pole structures within their declared computational scope.
 
 ## Important non-claims
@@ -104,4 +107,4 @@ Historical releases must not be silently overwritten. Each release will be tied 
 - SHA-256 manifest;
 - DOI / archival identifiers when assigned.
 
-See [AUTHORSHIP_AND_PRIORITY.md](AUTHORSHIP_AND_PRIORITY.md), [CLAIMS_LEDGER.md](CLAIMS_LEDGER.md), and [CHANGELOG.md](CHANGELOG.md).
+See [AUTHORSHIP_AND_PRIORITY.md](AUTHORSHIP_AND_PRIORITY.md), [CLAIMS_LEDGER.md](CLAIMS_LEDGER.md), [PUBLIC_EVIDENCE_STATUS.md](PUBLIC_EVIDENCE_STATUS.md), and [CHANGELOG.md](CHANGELOG.md).
