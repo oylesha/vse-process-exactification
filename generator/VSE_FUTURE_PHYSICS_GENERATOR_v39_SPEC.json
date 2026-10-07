@@ -1,0 +1,78 @@
+{
+  "version": "VSE_FUTURE_PHYSICS_GENERATOR_v39_JOINT_SATURATION_SPEC_2026-10-07",
+  "F0": [
+    "Существование",
+    "Замкнутость",
+    "Простота"
+  ],
+  "canonical_runtime": [
+    "FULL",
+    "SATURATE_TARGET_ORBIT",
+    "BUILD_LABELED_JOINT_RELATION_CARRIER",
+    "TARGET_TRANSFORM",
+    "RECOVERY_AND_LATE_SEPARATOR_TEST",
+    "SAFE_QUOTIENT",
+    "FACTOR",
+    "RESIDUAL",
+    "REIFY_OR_CLASSIFY",
+    "ACTUALIZE",
+    "MACRO_RETURN",
+    "WORLD_STATE",
+    "JOINT_RESPONSE_JET"
+  ],
+  "identity_layers": {
+    "structural_state_id": "форма modulo representation/internal relabeling",
+    "event_id": "literal ACT + source/filling/orientation/recovery",
+    "lineage_id": "процессная история/граф ACT",
+    "macro_id": "future-sufficient saturated joint passport",
+    "world_id": "recurrent source-compatible positive world branch"
+  },
+  "required_macro_passport": [
+    "structural_state_id",
+    "event_ids/incoming provenance",
+    "recovery_map",
+    "saturation_orbit",
+    "orientation_phase",
+    "labeled_joint_relation_tensor",
+    "cross_block_rank",
+    "cross_block_singular_values",
+    "frame_stripped_residual",
+    "future_profile_hash",
+    "future_profile_complete",
+    "late_separator_status",
+    "safe_quotient_certificate",
+    "residual_type",
+    "residual_rank",
+    "residual_order",
+    "macro_return_class",
+    "source_thread_status"
+  ],
+  "world_sources": [
+    "U1_holonomy",
+    "charged_path",
+    "spin",
+    "q5",
+    "q7",
+    "stress_action"
+  ],
+  "joint_response": {
+    "six_real_source_quadratic_hessian_independent_entries": 21,
+    "six_complex_channels_hermitian_relation_real_degrees": 36,
+    "rule": "mixed derivatives/cross-cumulants are physical passport data"
+  },
+  "safe_quotient": {
+    "required": [
+      "representation equivalence",
+      "explicit recovery",
+      "joint relation recovery",
+      "future completeness or theorem-sufficiency",
+      "no late separator"
+    ],
+    "forbidden_as_final_identity": [
+      "spectrum alone",
+      "diagonal response alone",
+      "finite-depth future hash without completeness",
+      "structural state hash when source/history is target-relevant"
+    ]
+  }
+}
