@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite this release."
+title: "VSE: Recoverable Process Exactification and Source-Preserving Generative Research"
+version: "0.1-priority"
+date-released: 2026-10-07
+authors:
+  - family-names: "Antyshev"
+    orcid: "https://orcid.org/0009-0002-2082-5563"
+repository-code: "https://github.com/oylesha/vse-process-exactification"
