@@ -1,0 +1,51 @@
+{
+  "version": "VSE_GENERATOR_v39_MIGRATION_AUDIT_2026-10-07",
+  "database": {
+    "nodes": 29311,
+    "transitions": 35637,
+    "status_counts": {
+      "ACCEPTED_NEW": 29310,
+      "DUPLICATE_SAME_STEP": 6327
+    }
+  },
+  "state_vs_event": {
+    "states_with_multiple_incoming_events": 6235,
+    "fraction_nonroot": 0.21272603207096555,
+    "multiple_parent_states": 5807,
+    "multiple_recovery_map_states": 5352,
+    "extra_incoming_histories": 6327,
+    "max_incoming_events_per_state": 3
+  },
+  "future_profile": {
+    "depth0_collision_groups": 2044,
+    "depth0_excess_exact_states": 5608,
+    "depth0_largest_collision_group": 51,
+    "profile_stats": [
+      {
+        "depth": 0,
+        "complete": true,
+        "rows": 29311,
+        "distinct_hashes": 23703
+      },
+      {
+        "depth": 1,
+        "complete": true,
+        "rows": 81,
+        "distinct_hashes": 80
+      },
+      {
+        "depth": 2,
+        "complete": false,
+        "rows": 80,
+        "distinct_hashes": 80
+      },
+      {
+        "depth": 2,
+        "complete": true,
+        "rows": 1,
+        "distinct_hashes": 1
+      }
+    ]
+  },
+  "conclusion": "STATE_ID must be distinct from EVENT_ID/LINEAGE_ID. Finite response-profile equality cannot authorize physical quotient without completeness, explicit recovery and no-late-separator."
+}
