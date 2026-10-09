@@ -18,3 +18,12 @@
 - Added VSE-C006 for the finite future-profile collision / unsafe-quotient result already present in the public scientific summary.
 - Initially marked VSE-C004 as PARTIAL during audit; subsequently promoted a bounded q5/q7 incidence/cross-block certificate and independent public verifier, so the public evidence status is now INCLUDED, SCOPED.
 - No RH, P vs NP, completed-ToE, physical-particle, or forced-Monster claim was added.
+
+
+### Archival linkage and manuscript submission — 2026-10-09
+
+- Linked the public repository to the immutable Zenodo archival / reproducibility record [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396).
+- Recorded the chronology separately: GitHub public priority snapshot 2026-10-07; Zenodo archive 2026-10-08; Paper 1 submission to *Journal of Physics A: Mathematical and Theoretical* 2026-10-08.
+- Hardened GitHub Math rendering in the public overview and scientific-significance documents using explicit `\mathrm{...}` and `\text{...}` notation.
+- Updated citation metadata, priority manifest, authorship statement, release notes, publication roadmap, and Paper 1 status.
+- The GitHub tag/release remains not yet created and is not backdated.
