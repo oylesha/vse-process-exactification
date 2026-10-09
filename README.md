@@ -28,28 +28,29 @@ This repository is the **public, curated priority record** for the VSE research 
 The current exactification pipeline is
 
 $$
-FULL \to SATURATE \to JOINT \to TRANSFORM \to RECOVER\_TEST
-\to SAFE\_QUOTIENT \to FACTOR \to RESIDUAL \to REIFY/CLASSIFY.
+\mathrm{FULL} \to \mathrm{SATURATE} \to \mathrm{JOINT} \to \mathrm{TRANSFORM}
+\to \mathrm{RECOVER\_TEST} \to \mathrm{SAFE\_QUOTIENT}
+\to \mathrm{FACTOR} \to \mathrm{RESIDUAL} \to \mathrm{REIFY/CLASSIFY}.
 $$
 
 The central identity distinction is
 
 $$
-STATE \ne EVENT \ne LINEAGE \ne MACROOBJECT \ne WORLD.
+\mathrm{STATE} \ne \mathrm{EVENT} \ne \mathrm{LINEAGE} \ne \mathrm{MACROOBJECT} \ne \mathrm{WORLD}.
 $$
 
 Operational rules:
 
 $$
-SATURATE\ before\ TRANSFORM,
+\mathrm{SATURATE}\;\text{before}\;\mathrm{TRANSFORM},
 $$
 
 $$
-JOINT\ before\ MARGINAL,
+\mathrm{JOINT}\;\text{before}\;\mathrm{MARGINAL},
 $$
 
 $$
-RECOVER\ before\ QUOTIENT.
+\mathrm{RECOVER}\;\text{before}\;\mathrm{QUOTIENT}.
 $$
 
 ## Public evidence currently included
