@@ -11,22 +11,23 @@ This repository is not presented as a completed Theory of Everything. Its centra
 The core runtime is
 
 $$
-FULL \to SATURATE \to JOINT \to TRANSFORM \to RECOVER\_TEST
-\to SAFE\_QUOTIENT \to FACTOR \to RESIDUAL \to REIFY/CLASSIFY.
+\mathrm{FULL} \to \mathrm{SATURATE} \to \mathrm{JOINT} \to \mathrm{TRANSFORM}
+\to \mathrm{RECOVER\_TEST} \to \mathrm{SAFE\_QUOTIENT}
+\to \mathrm{FACTOR} \to \mathrm{RESIDUAL} \to \mathrm{REIFY/CLASSIFY}.
 $$
 
 The three operational rules are:
 
 $$
-SATURATE\ before\ TRANSFORM,
+\mathrm{SATURATE}\;\text{before}\;\mathrm{TRANSFORM},
 $$
 
 $$
-JOINT\ before\ MARGINAL,
+\mathrm{JOINT}\;\text{before}\;\mathrm{MARGINAL},
 $$
 
 $$
-RECOVER\ before\ QUOTIENT.
+\mathrm{RECOVER}\;\text{before}\;\mathrm{QUOTIENT}.
 $$
 
 ## Main project-specific findings in this priority release
@@ -43,7 +44,7 @@ In the source-preserving D2 dataset:
 This forces an explicit distinction between:
 
 $$
-STATE \ne EVENT \ne LINEAGE \ne MACROOBJECT \ne WORLD.
+\mathrm{STATE} \ne \mathrm{EVENT} \ne \mathrm{LINEAGE} \ne \mathrm{MACROOBJECT} \ne \mathrm{WORLD}.
 $$
 
 ### 2. Finite future signatures are not automatically safe quotients
