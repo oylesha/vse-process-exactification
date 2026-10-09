@@ -33,7 +33,7 @@ This hash identifies the exact prepared priority package bytes. A hash alone doe
 
 ## Current archival identifiers
 
-- Public GitHub priority snapshot: `v0.1-priority`, first public date 2026-10-07, exact snapshot commit `8d0ee009985d4a9b540c9b1249c44130910bc3e3`.
+- Public GitHub priority snapshot: [`v0.1-priority`](https://github.com/oylesha/vse-process-exactification/releases/tag/v0.1-priority), first public date 2026-10-07, exact snapshot commit `8d0ee009985d4a9b540c9b1249c44130910bc3e3`.
 - Zenodo DOI: [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396), archival / reproducibility record published 2026-10-08.
 - Journal submission: Paper 1 submitted to *Journal of Physics A: Mathematical and Theoretical* on 2026-10-08.
 
@@ -41,8 +41,6 @@ The GitHub priority date and the Zenodo archive date are intentionally kept dist
 
 ## Next archival identifiers to add
 
-- Git tag / GitHub Release identifier;
-- stable Git commit SHA associated with that release;
 - arXiv identifier;
 - optional OSF Registration DOI;
 - optional Software Heritage SWHID.
