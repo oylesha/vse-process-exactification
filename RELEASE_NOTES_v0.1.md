@@ -2,6 +2,7 @@
 
 **Primary human author:** Antyshev  
 **ORCID:** 0009-0002-2082-5563  
+**Exact 2026-10-07 priority snapshot commit:** [`8d0ee009985d4a9b540c9b1249c44130910bc3e3`](https://github.com/oylesha/vse-process-exactification/commit/8d0ee009985d4a9b540c9b1249c44130910bc3e3)  
 **Zenodo archival / reproducibility record:** [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396)  
 **Paper 1 submitted:** *Journal of Physics A: Mathematical and Theoretical* — 2026-10-08
 
