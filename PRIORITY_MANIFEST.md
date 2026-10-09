@@ -3,6 +3,7 @@
 **Primary human author:** Antyshev  
 **ORCID:** https://orcid.org/0009-0002-2082-5563  
 **Public priority date:** 2026-10-07  
+**Exact 2026-10-07 priority snapshot commit:** [`8d0ee009985d4a9b540c9b1249c44130910bc3e3`](https://github.com/oylesha/vse-process-exactification/commit/8d0ee009985d4a9b540c9b1249c44130910bc3e3)  
 **Zenodo archival / reproducibility record:** [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396) — 2026-10-08  
 **Paper 1 journal submission:** *Journal of Physics A: Mathematical and Theoretical* — 2026-10-08  
 **Repository:** https://github.com/oylesha/vse-process-exactification
@@ -32,7 +33,7 @@ This hash identifies the exact prepared priority package bytes. A hash alone doe
 
 ## Current archival identifiers
 
-- Public GitHub priority snapshot: `v0.1-priority`, first public date 2026-10-07.
+- Public GitHub priority snapshot: `v0.1-priority`, first public date 2026-10-07, exact snapshot commit `8d0ee009985d4a9b540c9b1249c44130910bc3e3`.
 - Zenodo DOI: [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396), archival / reproducibility record published 2026-10-08.
 - Journal submission: Paper 1 submitted to *Journal of Physics A: Mathematical and Theoretical* on 2026-10-08.
 
