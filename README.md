@@ -6,7 +6,7 @@
 **Priority snapshot commit:** [`8d0ee009985d4a9b540c9b1249c44130910bc3e3`](https://github.com/oylesha/vse-process-exactification/commit/8d0ee009985d4a9b540c9b1249c44130910bc3e3)  
 **Zenodo archival / reproducibility record:** [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396) — published 2026-10-08  
 **Paper 1:** submitted to *Journal of Physics A: Mathematical and Theoretical* — 2026-10-08  
-**GitHub Release / tag:** not yet created; the Zenodo record is the current immutable public archive  
+**GitHub Release / tag:** [v0.1-priority](https://github.com/oylesha/vse-process-exactification/releases/tag/v0.1-priority) — pinned to the 2026-10-07 priority snapshot  
 **Publication language:** English (original research history is preserved separately in Russian)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23245396.svg)](https://doi.org/10.5281/zenodo.23245396)
