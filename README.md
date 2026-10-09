@@ -3,6 +3,7 @@
 **Primary human author / research program originator:** **Antyshev**  
 **ORCID:** https://orcid.org/0009-0002-2082-5563  
 **Priority snapshot version:** v0.1-priority — 2026-10-07  
+**Priority snapshot commit:** [`8d0ee009985d4a9b540c9b1249c44130910bc3e3`](https://github.com/oylesha/vse-process-exactification/commit/8d0ee009985d4a9b540c9b1249c44130910bc3e3)  
 **Zenodo archival / reproducibility record:** [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396) — published 2026-10-08  
 **Paper 1:** submitted to *Journal of Physics A: Mathematical and Theoretical* — 2026-10-08  
 **GitHub Release / tag:** not yet created; the Zenodo record is the current immutable public archive  
