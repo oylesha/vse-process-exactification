@@ -11,13 +11,13 @@ Original research notes may remain in Russian inside the private archive. Transl
 
 ## Publication sequence
 
-### Stage P0 — Public priority record (NOW)
+### Stage P0 — Public priority record (COMPLETED / ACTIVE)
 
-Purpose:
-- establish authorship and a public date;
-- freeze the bounded technical core;
-- expose reproducible evidence;
-- avoid grand claims that are not yet proven.
+Status:
+- public GitHub priority snapshot established on 2026-10-07;
+- immutable Zenodo archival / reproducibility record: [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396), published 2026-10-08;
+- bounded technical core and reproducibility evidence are public;
+- non-claims remain explicit.
 
 Publish:
 1. authorship / ORCID / citation metadata;
@@ -36,17 +36,27 @@ Do not present as solved:
 - physical Monster symmetry;
 - numerical first-principles prediction of constants.
 
-### Stage P1 — Paper 1: formal framework
+### Stage P1 — Paper 1 (SUBMITTED 2026-10-08)
 
-Working title:
+Submitted title:
 
-**Recoverable Process Exactification: Saturation, Joint Relations, and Safe Quotients in a Source-Preserving Generative System**
+**Target-faithful reduction of generative systems: recovery correspondences, recursive carriers and path memory**
 
-Primary contribution:
-- formal target-relative process exactification;
-- recoverability before destructive quotient;
-- source-preserving generator evidence;
-- reproducibility package.
+Journal:
+
+*Journal of Physics A: Mathematical and Theoretical*
+
+Public archival / reproducibility record:
+
+[10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396)
+
+Primary finite contribution:
+- target-faithful recovery comparison;
+- two-route reconstruction of the first derived carrier;
+- recursive second-level transport audit;
+- endpoint-only ablation and frame-covariant NO-GO;
+- frame-free relative loop / conjugacy invariant;
+- reproducibility and generator negative controls.
 
 ### Stage P2 — Paper 2: generator and recurrent internal poles
 
