@@ -7,3 +7,7 @@ authors:
   - family-names: "Antyshev"
     orcid: "https://orcid.org/0009-0002-2082-5563"
 repository-code: "https://github.com/oylesha/vse-process-exactification"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23245396"
+    description: "Associated Zenodo archival and reproducibility record for Paper 1"
