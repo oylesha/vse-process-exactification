@@ -3,8 +3,12 @@
 **Primary human author / research program originator:** **Antyshev**  
 **ORCID:** https://orcid.org/0009-0002-2082-5563  
 **Priority snapshot version:** v0.1-priority — 2026-10-07  
-**Immutable GitHub Release:** pending final public audit  
+**Zenodo archival / reproducibility record:** [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396) — published 2026-10-08  
+**Paper 1:** submitted to *Journal of Physics A: Mathematical and Theoretical* — 2026-10-08  
+**GitHub Release / tag:** not yet created; the Zenodo record is the current immutable public archive  
 **Publication language:** English (original research history is preserved separately in Russian)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23245396.svg)](https://doi.org/10.5281/zenodo.23245396)
 
 This repository is the **public, curated priority record** for the VSE research program and its project-specific results.
 
@@ -99,16 +103,20 @@ AI systems were used as research assistants for literature search, symbolic/nume
 
 ## Citation
 
-Please cite this repository/release using [CITATION.cff](CITATION.cff).
+Please cite this repository using [CITATION.cff](CITATION.cff) and use the linked Zenodo record for the immutable archived Paper 1 / reproducibility snapshot:
+
+**Zenodo DOI:** [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396)
 
 **Antyshev** — ORCID **0009-0002-2082-5563**.
 
 ## Version integrity
 
-Historical releases must not be silently overwritten. Each release will be tied to:
+Historical releases must not be silently overwritten. Public states are tied, where available, to:
 - Git commit SHA;
 - release tag;
 - SHA-256 manifest;
-- DOI / archival identifiers when assigned.
+- DOI / archival identifiers.
+
+The current immutable archival identifier is **10.5281/zenodo.23245396**. The GitHub tag/release remains a separate pending repository-level step and must not be backdated or conflated with the 2026-10-07 public priority snapshot.
 
 See [AUTHORSHIP_AND_PRIORITY.md](AUTHORSHIP_AND_PRIORITY.md), [CLAIMS_LEDGER.md](CLAIMS_LEDGER.md), [PUBLIC_EVIDENCE_STATUS.md](PUBLIC_EVIDENCE_STATUS.md), and [CHANGELOG.md](CHANGELOG.md).
