@@ -2,9 +2,13 @@
 
 **Primary human author:** **Antyshev**  
 **ORCID:** https://orcid.org/0009-0002-2082-5563  
-**Priority snapshot date:** 2026-10-07
+**Priority snapshot date:** 2026-10-07  
+**Zenodo archival / reproducibility record:** [10.5281/zenodo.23245396](https://doi.org/10.5281/zenodo.23245396) — 2026-10-08  
+**Paper 1 submitted:** *Journal of Physics A: Mathematical and Theoretical* — 2026-10-08
 
 This repository records the state of the VSE research program attributed to **Antyshev** at the dates and versions identified by Git commits, release tags, DOI/archive identifiers, and SHA-256 manifests.
+
+The chronology is explicit: the public GitHub priority snapshot is dated 2026-10-07; the associated immutable Zenodo Paper 1 / reproducibility record was published on 2026-10-08 under DOI **10.5281/zenodo.23245396**; Paper 1 was submitted to *Journal of Physics A: Mathematical and Theoretical* on 2026-10-08. These are related but distinct provenance events.
 
 ## Attribution
 
